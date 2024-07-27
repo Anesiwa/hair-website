@@ -1,0 +1,17 @@
+.navbar,
+.nav-link,
+.navbar-brand {
+  color: black;
+  width: max-content;
+}
+
+.navbar-nav {
+  max-width: 100%;
+  display: inline-flex;
+  justify-content: flex-end;
+  flex-direction: row;
+}
+.nav-link {
+  padding: 10px 15px;
+  cursor: pointer;
+}
